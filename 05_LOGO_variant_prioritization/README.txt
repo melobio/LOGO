@@ -1,4 +1,4 @@
-Used to reproduce the results of mutation prioritization
+Used to reproduce the results of variant prioritization
 
 1. script
 About CADD and LOGO-C2P in Fig 4 of the paper involved in the software code and reproduction case
