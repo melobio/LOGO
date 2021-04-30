@@ -1,0 +1,55 @@
+
+########################################################################################################################
+# GRCh37
+########################################################################################################################
+wget https://krishna.gs.washington.edu/members/mkircher/download/CADD/v1.4/training_data/GRCh37/humanDerived_InDel.csv.gz
+wget https://krishna.gs.washington.edu/members/mkircher/download/CADD/v1.4/training_data/GRCh37/humanDerived_InDels.tsv.gz
+wget https://krishna.gs.washington.edu/members/mkircher/download/CADD/v1.4/training_data/GRCh37/humanDerived_InDels.vcf.gz
+wget https://krishna.gs.washington.edu/members/mkircher/download/CADD/v1.4/training_data/GRCh37/humanDerived_InDels.vcf.gz.tbi
+
+wget https://krishna.gs.washington.edu/members/mkircher/download/CADD/v1.4/training_data/GRCh37/humanDerived_SNV.csv.gz
+wget https://krishna.gs.washington.edu/members/mkircher/download/CADD/v1.4/training_data/GRCh37/humanDerived_SNVs.tsv.gz
+wget https://krishna.gs.washington.edu/members/mkircher/download/CADD/v1.4/training_data/GRCh37/humanDerived_SNVs.vcf.gz
+wget https://krishna.gs.washington.edu/members/mkircher/download/CADD/v1.4/training_data/GRCh37/humanDerived_SNVs.vcf.gz.tbi
+
+wget https://krishna.gs.washington.edu/members/mkircher/download/CADD/v1.4/training_data/GRCh37/simulation_InDel.csv.gz
+wget https://krishna.gs.washington.edu/members/mkircher/download/CADD/v1.4/training_data/GRCh37/simulation_InDels.tsv.gz
+wget https://krishna.gs.washington.edu/members/mkircher/download/CADD/v1.4/training_data/GRCh37/simulation_InDels.vcf.gz
+wget https://krishna.gs.washington.edu/members/mkircher/download/CADD/v1.4/training_data/GRCh37/simulation_InDels.vcf.gz.tbi
+
+wget https://krishna.gs.washington.edu/members/mkircher/download/CADD/v1.4/training_data/GRCh37/simulation_SNV.csv.gz
+wget https://krishna.gs.washington.edu/members/mkircher/download/CADD/v1.4/training_data/GRCh37/simulation_SNVs.tsv.gz
+wget https://krishna.gs.washington.edu/members/mkircher/download/CADD/v1.4/training_data/GRCh37/simulation_SNVs.vcf.gz
+wget https://krishna.gs.washington.edu/members/mkircher/download/CADD/v1.4/training_data/GRCh37/simulation_SNVs.vcf.gz.tbi
+
+########################################################################################################################
+# GRCh38
+########################################################################################################################
+wget https://krishna.gs.washington.edu/members/mkircher/download/CADD/v1.4/training_data/GRCh38/humanDerived_InDel.csv.gz
+wget https://krishna.gs.washington.edu/members/mkircher/download/CADD/v1.4/training_data/GRCh38/humanDerived_InDels.tsv.gz
+wget https://krishna.gs.washington.edu/members/mkircher/download/CADD/v1.4/training_data/GRCh38/humanDerived_InDels.vcf.gz
+wget https://krishna.gs.washington.edu/members/mkircher/download/CADD/v1.4/training_data/GRCh38/humanDerived_InDels.vcf.gz.tbi
+
+wget https://krishna.gs.washington.edu/members/mkircher/download/CADD/v1.4/training_data/GRCh38/humanDerived_SNV.csv.gz
+wget https://krishna.gs.washington.edu/members/mkircher/download/CADD/v1.4/training_data/GRCh38/humanDerived_SNVs.tsv.gz
+wget https://krishna.gs.washington.edu/members/mkircher/download/CADD/v1.4/training_data/GRCh38/humanDerived_SNVs.vcf.gz
+wget https://krishna.gs.washington.edu/members/mkircher/download/CADD/v1.4/training_data/GRCh38/humanDerived_SNVs.vcf.gz.tbi
+
+wget https://krishna.gs.washington.edu/members/mkircher/download/CADD/v1.4/training_data/GRCh38/simulation_InDel.csv.gz
+wget https://krishna.gs.washington.edu/members/mkircher/download/CADD/v1.4/training_data/GRCh38/simulation_InDels.tsv.gz
+wget https://krishna.gs.washington.edu/members/mkircher/download/CADD/v1.4/training_data/GRCh38/simulation_InDels.vcf.gz
+wget https://krishna.gs.washington.edu/members/mkircher/download/CADD/v1.4/training_data/GRCh38/simulation_InDels.vcf.gz.tbi
+
+wget https://krishna.gs.washington.edu/members/mkircher/download/CADD/v1.4/training_data/GRCh38/simulation_SNV.csv.gz
+wget https://krishna.gs.washington.edu/members/mkircher/download/CADD/v1.4/training_data/GRCh38/simulation_SNVs.tsv.gz
+wget https://krishna.gs.washington.edu/members/mkircher/download/CADD/v1.4/training_data/GRCh38/simulation_SNVs.vcf.gz
+wget https://krishna.gs.washington.edu/members/mkircher/download/CADD/v1.4/training_data/GRCh38/simulation_SNVs.vcf.gz.tbi
+
+
+########################################################################################################################
+# ClinVar ExAC
+########################################################################################################################
+wget https://krishna.gs.washington.edu/members/mkircher/download/CADD/v1.4/validation/clinVar-ExAC/ExAC_MAF5p_all_GRCh37.vcf
+wget https://krishna.gs.washington.edu/members/mkircher/download/CADD/v1.4/validation/clinVar-ExAC/ExAC_MAF5p_missense_GRCh37.vcf
+wget https://krishna.gs.washington.edu/members/mkircher/download/CADD/v1.4/validation/clinVar-ExAC/clinvar_20180729_pathogenic_all_GRCh37.vcf
+wget https://krishna.gs.washington.edu/members/mkircher/download/CADD/v1.4/validation/clinVar-ExAC/clinvar_20180729_pathogenic_missense_GRCh37.vcf

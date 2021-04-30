@@ -1,0 +1,1 @@
+NV_GPU='1' nvidia-docker run     --name $RANDOM     -v $(pwd)/1000G_GWAS_1408.vcf:/1000G_GWAS_1408.vcf     -v $(pwd)/1000G_GWAS_1408.vcf_output:/outputdir     --rm licko789/deepsea-predict-gpu:whole_addevofeature      python 4_get_vcf_whole_evo_feature.py /1000G_GWAS_1408.vcf /outputdir

@@ -1,0 +1,7 @@
+       Chr   Location  V Ref Alt       Rev_Chr         Sig
+59782    1   10000004  .   C   G  NC_000001.10  Pathogenic
+59783    1   10000006  .   G   A  NC_000001.10  Pathogenic
+515874   1  100000263  .   G   T  NC_000001.10  Pathogenic
+515875   1  100000483  .   A   G  NC_000001.10  Pathogenic
+59784    1   10000073  .   G   A  NC_000001.10  Pathogenic
+chr:  1 NC_000001.10
