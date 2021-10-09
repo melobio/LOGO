@@ -29,10 +29,10 @@ import tensorflow.keras.backend as K
 # 建议关闭。珍惜生命，远离eager。
 is_tf_eager = strtobool(os.environ.get('TF_EAGER', '0'))
 
-# if tf.__version__.startswith('2.') and is_tf_keras:
-#     if not is_tf_eager:
-#         tf.compat.v1.disable_eager_execution()
-#         tf.compat.v1.experimental.output_all_intermediates(True)
+if tf.__version__.startswith('2.') and is_tf_keras:
+    if not is_tf_eager:
+        tf.compat.v1.disable_eager_execution()
+        tf.compat.v1.experimental.output_all_intermediates(True)
 
 
 def gelu_erf(x):
