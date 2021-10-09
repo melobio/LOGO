@@ -5,7 +5,7 @@ CUDA_VISIBLE_DEVICES=0,1,2,3 python 02_train_gene_transformer_lm_hg_bert4keras_t
   --train-data ../data/hg19/train_5_gram_tfrecord \
   --seq-len 1000 \
   --model-dim 256 \
-  --transformer-depth 4 \
+  --transformer-depth 2 \
   --num-heads 8 \
   --batch-size 256 \
   --ngram 5 \
