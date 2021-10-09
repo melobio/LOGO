@@ -1,138 +1,190 @@
-absl-py @ file:///tmp/build/80754af9/absl-py_1603893126410/work
-aiohttp @ file:///tmp/build/80754af9/aiohttp_1602530275854/work
-argon2-cffi @ file:///tmp/build/80754af9/argon2-cffi_1596828496740/work
-astor==0.8.1
-async-generator==1.10
-async-timeout==3.0.1
-attrs @ file:///tmp/build/80754af9/attrs_1604765588209/work
-backcall==0.2.0
-biopython @ file:///tmp/build/80754af9/biopython_1600298855952/work
-bleach @ file:///tmp/build/80754af9/bleach_1600439572647/work
-blinker==1.4
-brotlipy==0.7.0
-cachetools @ file:///tmp/build/80754af9/cachetools_1596822027882/work
-certifi==2020.12.5
-cffi==1.14.0
-chardet @ file:///tmp/build/80754af9/chardet_1605303175790/work
-click==7.1.2
-cryptography @ file:///tmp/build/80754af9/cryptography_1605544480695/work
-cycler==0.10.0
-decorator==4.4.2
-defusedxml==0.6.0
-entrypoints==0.3
-faiss==1.6.3
-gast==0.2.2
-google-auth @ file:///tmp/build/80754af9/google-auth_1604100403705/work
-google-auth-oauthlib @ file:///tmp/build/80754af9/google-auth-oauthlib_1603929124518/work
-google-pasta==0.2.0
-grpcio @ file:///tmp/build/80754af9/grpcio_1597424460877/work
-h5py @ file:///tmp/build/80754af9/h5py_1593454121459/work
-idna @ file:///tmp/build/80754af9/idna_1593446292537/work
-idna-ssl==1.1.0
-importlib-metadata @ file:///tmp/build/80754af9/importlib-metadata_1602276842396/work
-ipykernel @ file:///tmp/build/80754af9/ipykernel_1596206602906/work/dist/ipykernel-5.3.4-py3-none-any.whl
-ipython @ file:///tmp/build/80754af9/ipython_1593447367857/work
-ipython-genutils==0.2.0
-ipywidgets @ file:///tmp/build/80754af9/ipywidgets_1601490159889/work
-jedi @ file:///tmp/build/80754af9/jedi_1598371618777/work
-Jinja2==2.11.2
-joblib @ file:///tmp/build/80754af9/joblib_1601912903842/work
-jsonschema @ file:///tmp/build/80754af9/jsonschema_1602607155483/work
-jupyter==1.0.0
-jupyter-client @ file:///tmp/build/80754af9/jupyter_client_1601311786391/work
-jupyter-console @ file:///tmp/build/80754af9/jupyter_console_1598884538475/work
-jupyter-contrib-core==0.3.3
-jupyter-contrib-nbextensions @ file:///home/conda/feedstock_root/build_artifacts/jupyter_contrib_nbextensions_1602805459530/work
-jupyter-core @ file:///tmp/build/80754af9/jupyter_core_1606148976284/work
-jupyter-highlight-selected-word @ file:///home/conda/feedstock_root/build_artifacts/jupyter_highlight_selected_word_1603234228293/work
-jupyter-latex-envs @ file:///home/conda/feedstock_root/build_artifacts/jupyter_latex_envs_1602788802079/work
-jupyter-nbextensions-configurator @ file:///home/conda/feedstock_root/build_artifacts/jupyter_nbextensions_configurator_1602769491754/work
-jupyterlab-pygments @ file:///tmp/build/80754af9/jupyterlab_pygments_1601490720602/work
-Keras==2.3.1
-Keras-Applications @ file:///tmp/build/80754af9/keras-applications_1594366238411/work
-Keras-Preprocessing==1.1.0
-kiwisolver @ file:///tmp/build/80754af9/kiwisolver_1604014557000/work
-llvmlite==0.35.0
-lxml @ file:///home/conda/feedstock_root/build_artifacts/lxml_1603104844695/work
-Markdown @ file:///tmp/build/80754af9/markdown_1605111083232/work
-MarkupSafe==1.1.1
-matplotlib @ file:///tmp/build/80754af9/matplotlib-base_1603373816490/work
-mistune==0.8.4
-mkl-fft==1.2.0
-mkl-random==1.1.1
-mkl-service==2.3.0
-multidict @ file:///tmp/build/80754af9/multidict_1600456401639/work
-nb-conda==2.2.1
-nb-conda-kernels @ file:///tmp/build/80754af9/nb_conda_kernels_1600445353977/work
-nbclient @ file:///tmp/build/80754af9/nbclient_1602783176460/work
-nbconvert @ file:///tmp/build/80754af9/nbconvert_1601914804165/work
-nbformat @ file:///tmp/build/80754af9/nbformat_1602783287752/work
-nest-asyncio @ file:///tmp/build/80754af9/nest-asyncio_1606153767164/work
-nglview @ file:///home/conda/feedstock_root/build_artifacts/nglview_1592924837339/work
-notebook @ file:///tmp/build/80754af9/notebook_1601501581489/work
-numba==0.52.0
-numpy @ file:///tmp/build/80754af9/numpy_and_numpy_base_1603487797006/work
-oauthlib==3.1.0
-olefile==0.46
-opt-einsum==3.1.0
-packaging==20.4
-pandas @ file:///tmp/build/80754af9/pandas_1602088135163/work
-pandocfilters @ file:///tmp/build/80754af9/pandocfilters_1605120937332/work
-parso==0.7.0
-patsy==0.5.1
-pexpect @ file:///tmp/build/80754af9/pexpect_1605563209008/work
-pickleshare==0.7.5
-Pillow @ file:///tmp/build/80754af9/pillow_1603822238230/work
-prometheus-client==0.8.0
-prompt-toolkit @ file:///tmp/build/80754af9/prompt-toolkit_1602688806899/work
-protobuf==3.13.0
-ptyprocess @ file:///tmp/build/80754af9/ptyprocess_1605560620615/work/dist/ptyprocess-0.6.0-py2.py3-none-any.whl
-pyasn1==0.4.8
-pyasn1-modules==0.2.8
-pycparser @ file:///tmp/build/80754af9/pycparser_1594388511720/work
-pyfasta==0.5.2
-Pygments @ file:///tmp/build/80754af9/pygments_1604103097372/work
-PyJWT==1.7.1
-pynndescent==0.5.1
-pyOpenSSL @ file:///tmp/build/80754af9/pyopenssl_1605545627475/work
-pyparsing==2.4.7
-pyrsistent @ file:///tmp/build/80754af9/pyrsistent_1600141725711/work
-PySocks @ file:///tmp/build/80754af9/pysocks_1605305763431/work
-python-dateutil==2.8.1
-pytz==2020.1
-PyYAML==5.3.1
-pyzmq==19.0.2
-qtconsole @ file:///tmp/build/80754af9/qtconsole_1600870028330/work
-QtPy==1.9.0
-requests @ file:///tmp/build/80754af9/requests_1592841827918/work
-requests-oauthlib==1.3.0
-rsa @ file:///tmp/build/80754af9/rsa_1596998415516/work
-scikit-learn @ file:///tmp/build/80754af9/scikit-learn_1598379690588/work
-scipy @ file:///tmp/build/80754af9/scipy_1597686625380/work
-seaborn==0.11.1
-Send2Trash==1.5.0
-six @ file:///tmp/build/80754af9/six_1605205335545/work
-statsmodels==0.12.1
-tensorboard @ file:///home/builder/ktietz/conda/conda-bld/tensorboard_1604313476433/work/tmp_pip_dir
-tensorboard-plugin-wit==1.6.0
-tensorflow==2.0.0
-tensorflow-estimator==2.0.0
-termcolor==1.1.0
-terminado==0.9.1
-testpath==0.4.4
-threadpoolctl @ file:///tmp/tmp9twdgx9k/threadpoolctl-2.1.0-py3-none-any.whl
-tornado==6.0.4
-tqdm @ file:///tmp/build/80754af9/tqdm_1605303662894/work
-traitlets==4.3.3
-typing-extensions @ file:///tmp/build/80754af9/typing_extensions_1598376058250/work
-umap-learn==0.5.0
-urllib3 @ file:///tmp/build/80754af9/urllib3_1603305693037/work
-wcwidth @ file:///tmp/build/80754af9/wcwidth_1593447189090/work
-webencodings==0.5.1
-Werkzeug==0.16.1
-widgetsnbextension==3.5.1
-wrapt==1.12.1
-xgboost==0.90
-xlrd==2.0.1
-yarl @ file:///tmp/build/80754af9/yarl_1602693044244/work
-zipp @ file:///tmp/build/80754af9/zipp_1604001098328/work
+# packages in environment at /home/xxx/.conda/envs/logo:
+#
+# Name                    Version                   Build  Channel
+_libgcc_mutex             0.1                        main    defaults
+_tflow_select             2.1.0                       gpu    defaults
+absl-py                   0.13.0           py36h06a4308_0    defaults
+aiohttp                   3.7.4.post0      py36h7f8727e_2    defaults
+argon2-cffi               20.1.0           py36h27cfd23_1    defaults
+astor                     0.8.1            py36h06a4308_0    defaults
+async-timeout             3.0.1            py36h06a4308_0    defaults
+async_generator           1.10             py36h28b3542_0    defaults
+attrs                     21.2.0             pyhd3eb1b0_0    defaults
+backcall                  0.2.0              pyhd3eb1b0_0    defaults
+biopython                 1.68                     pypi_0    pypi
+blas                      1.0                         mkl    defaults
+bleach                    4.0.0              pyhd3eb1b0_0    defaults
+blinker                   1.4              py36h06a4308_0    defaults
+brotlipy                  0.7.0           py36h27cfd23_1003    defaults
+c-ares                    1.17.1               h27cfd23_0    defaults
+ca-certificates           2021.7.5             h06a4308_1    defaults
+cachetools                4.2.2              pyhd3eb1b0_0    defaults
+certifi                   2021.5.30        py36h06a4308_0    defaults
+cffi                      1.14.0           py36h2e261b9_0    defaults
+chardet                   4.0.0           py36h06a4308_1003    defaults
+charset-normalizer        2.0.4              pyhd3eb1b0_0    defaults
+click                     8.0.1              pyhd3eb1b0_0    defaults
+coverage                  5.5              py36h27cfd23_2    defaults
+cryptography              3.4.7            py36hd23ed53_0    defaults
+cudatoolkit               10.0.130                      0    defaults
+cudnn                     7.6.5                cuda10.0_0    defaults
+cupti                     10.0.130                      0    defaults
+cycler                    0.10.0                   py36_0    defaults
+cython                    0.29.24          py36h295c915_0    defaults
+dbus                      1.13.18              hb2f20db_0    defaults
+decorator                 5.1.0              pyhd3eb1b0_0    defaults
+defusedxml                0.7.1              pyhd3eb1b0_0    defaults
+entrypoints               0.3                      py36_0    defaults
+expat                     2.4.1                h2531618_2    defaults
+fontconfig                2.13.1               h6c09931_0    defaults
+freetype                  2.10.4               h5ab3b9f_0    defaults
+gast                      0.2.2                    py36_0    defaults
+glib                      2.63.1               h5a9c865_0    defaults
+google-auth               1.33.0             pyhd3eb1b0_0    defaults
+google-auth-oauthlib      0.4.4              pyhd3eb1b0_0    defaults
+google-pasta              0.2.0              pyhd3eb1b0_0    defaults
+grpcio                    1.36.1           py36h2157cd5_1    defaults
+gst-plugins-base          1.14.0               hbbd80ab_1    defaults
+gstreamer                 1.14.0               hb453b48_1    defaults
+h5py                      2.10.0           py36hd6299e0_1    defaults
+hdf5                      1.10.6               hb1b8bf9_0    defaults
+icu                       58.2                 he6710b0_3    defaults
+idna                      3.2                pyhd3eb1b0_0    defaults
+idna_ssl                  1.1.0            py36h06a4308_0    defaults
+importlib-metadata        4.8.1            py36h06a4308_0    defaults
+importlib_metadata        4.8.1                hd3eb1b0_0    defaults
+intel-openmp              2021.3.0          h06a4308_3350    defaults
+ipykernel                 5.3.4            py36h5ca1d4c_0    defaults
+ipython                   7.16.1           py36h5ca1d4c_0    defaults
+ipython_genutils          0.2.0              pyhd3eb1b0_1    defaults
+ipywidgets                7.6.4              pyhd3eb1b0_0    defaults
+jedi                      0.17.0                   py36_0    defaults
+jinja2                    3.0.1              pyhd3eb1b0_0    defaults
+joblib                    1.0.1              pyhd3eb1b0_0    defaults
+jpeg                      9d                   h7f8727e_0    defaults
+jsonschema                3.2.0              pyhd3eb1b0_2    defaults
+jupyter                   1.0.0                    py36_7    defaults
+jupyter_client            7.0.1              pyhd3eb1b0_0    defaults
+jupyter_console           6.4.0              pyhd3eb1b0_0    defaults
+jupyter_core              4.8.1            py36h06a4308_0    defaults
+jupyterlab_pygments       0.1.2                      py_0    defaults
+jupyterlab_widgets        1.0.0              pyhd3eb1b0_1    defaults
+keras                     2.3.1                         0    defaults
+keras-applications        1.0.8                      py_1    defaults
+keras-base                2.3.1                    py36_0    defaults
+keras-preprocessing       1.1.2              pyhd3eb1b0_0    defaults
+kiwisolver                1.3.1            py36h2531618_0    defaults
+lcms2                     2.12                 h3be6417_0    defaults
+libedit                   3.1.20210714         h7f8727e_0    defaults
+libffi                    3.2.1             hf484d3e_1007    defaults
+libgcc-ng                 9.1.0                hdf63c60_0    defaults
+libgfortran-ng            7.3.0                hdf63c60_0    defaults
+libpng                    1.6.37               hbc83047_0    defaults
+libprotobuf               3.17.2               h4ff587b_1    defaults
+libsodium                 1.0.18               h7b6447c_0    defaults
+libstdcxx-ng              9.1.0                hdf63c60_0    defaults
+libtiff                   4.2.0                h85742a9_0    defaults
+libuuid                   1.0.3                h7f8727e_2    defaults
+libwebp-base              1.2.0                h27cfd23_0    defaults
+libxcb                    1.14                 h7b6447c_0    defaults
+libxml2                   2.9.10               hb55368b_3    defaults
+lz4-c                     1.9.3                h295c915_1    defaults
+markdown                  3.3.4            py36h06a4308_0    defaults
+markupsafe                2.0.1            py36h27cfd23_0    defaults
+matplotlib                3.3.4            py36h06a4308_0    defaults
+matplotlib-base           3.3.4            py36h62a2d02_0    defaults
+mistune                   0.8.4            py36h7b6447c_0    defaults
+mkl                       2020.2                      256    defaults
+mkl-service               2.3.0            py36he8ac12f_0    defaults
+mkl_fft                   1.3.0            py36h54f3939_0    defaults
+mkl_random                1.1.1            py36h0573a6f_0    defaults
+multidict                 5.1.0            py36h27cfd23_2    defaults
+nb_conda                  2.2.1                    py36_0    defaults
+nb_conda_kernels          2.3.1            py36h06a4308_0    defaults
+nbclient                  0.5.3              pyhd3eb1b0_0    defaults
+nbconvert                 6.0.7                    py36_0    defaults
+nbformat                  5.1.3              pyhd3eb1b0_0    defaults
+ncurses                   6.2                  he6710b0_1    defaults
+nest-asyncio              1.5.1              pyhd3eb1b0_0    defaults
+notebook                  6.4.3            py36h06a4308_0    defaults
+numpy                     1.19.2           py36h54aff64_0    defaults
+numpy-base                1.19.2           py36hfa32c7d_0    defaults
+oauthlib                  3.1.1              pyhd3eb1b0_0    defaults
+olefile                   0.46                     py36_0    defaults
+openjpeg                  2.4.0                h3ad879b_0    defaults
+openssl                   1.1.1l               h7f8727e_0    defaults
+opt_einsum                3.3.0              pyhd3eb1b0_1    defaults
+packaging                 21.0               pyhd3eb1b0_0    defaults
+pandas                    1.1.5            py36ha9443f7_0    defaults
+pandoc                    2.12                 h06a4308_0    defaults
+pandocfilters             1.4.3            py36h06a4308_1    defaults
+parso                     0.8.2              pyhd3eb1b0_0    defaults
+pcre                      8.45                 h295c915_0    defaults
+pexpect                   4.8.0              pyhd3eb1b0_3    defaults
+pickleshare               0.7.5           pyhd3eb1b0_1003    defaults
+pillow                    8.3.1            py36h2c7a002_0    defaults
+pip                       21.2.2           py36h06a4308_0    defaults
+prometheus_client         0.11.0             pyhd3eb1b0_0    defaults
+prompt-toolkit            3.0.20             pyhd3eb1b0_0    defaults
+prompt_toolkit            3.0.20               hd3eb1b0_0    defaults
+protobuf                  3.17.2           py36h295c915_0    defaults
+ptyprocess                0.7.0              pyhd3eb1b0_2    defaults
+pyasn1                    0.4.8              pyhd3eb1b0_0    defaults
+pyasn1-modules            0.2.8                      py_0    defaults
+pycparser                 2.20                       py_2    defaults
+pygments                  2.10.0             pyhd3eb1b0_0    defaults
+pyjwt                     2.1.0            py36h06a4308_0    defaults
+pyopenssl                 20.0.1             pyhd3eb1b0_1    defaults
+pyparsing                 2.4.7              pyhd3eb1b0_0    defaults
+pyqt                      5.9.2            py36h05f1152_2    defaults
+pyrsistent                0.17.3           py36h7b6447c_0    defaults
+pysocks                   1.7.1            py36h06a4308_0    defaults
+python                    3.6.9                h265db76_0    defaults
+python-dateutil           2.8.2              pyhd3eb1b0_0    defaults
+pytz                      2021.1             pyhd3eb1b0_0    defaults
+pyyaml                    5.4.1            py36h27cfd23_1    defaults
+pyzmq                     22.2.1           py36h295c915_1    defaults
+qt                        5.9.7                h5867ecd_1    defaults
+qtconsole                 5.1.1              pyhd3eb1b0_0    defaults
+qtpy                      1.10.0             pyhd3eb1b0_0    defaults
+readline                  7.0                  h7b6447c_5    defaults
+requests                  2.26.0             pyhd3eb1b0_0    defaults
+requests-oauthlib         1.3.0                      py_0    defaults
+rsa                       4.7.2              pyhd3eb1b0_1    defaults
+scikit-learn              0.24.2           py36ha9443f7_0    defaults
+scipy                     1.5.2            py36h0b6359f_0    defaults
+send2trash                1.8.0              pyhd3eb1b0_1    defaults
+setuptools                58.0.4           py36h06a4308_0    defaults
+sip                       4.19.8           py36hf484d3e_0    defaults
+six                       1.16.0             pyhd3eb1b0_0    defaults
+sqlite                    3.33.0               h62c20be_0    defaults
+tensorboard               2.4.0              pyhc547734_0    defaults
+tensorboard-plugin-wit    1.6.0                      py_0    defaults
+tensorflow                2.0.0           gpu_py36h6b29c10_0    defaults
+tensorflow-base           2.0.0           gpu_py36h0ec5d1f_0    defaults
+tensorflow-estimator      2.0.0              pyh2649769_0    defaults
+tensorflow-gpu            2.0.0                h0d30ee6_0    defaults
+termcolor                 1.1.0            py36h06a4308_1    defaults
+terminado                 0.9.4            py36h06a4308_0    defaults
+testpath                  0.5.0              pyhd3eb1b0_0    defaults
+threadpoolctl             2.2.0              pyh0d69192_0    defaults
+tk                        8.6.11               h1ccaba5_0    defaults
+tornado                   6.1              py36h27cfd23_0    defaults
+tqdm                      4.62.2             pyhd3eb1b0_1    defaults
+traitlets                 4.3.3            py36h06a4308_0    defaults
+typing-extensions         3.10.0.2             hd3eb1b0_0    defaults
+typing_extensions         3.10.0.2           pyh06a4308_0    defaults
+urllib3                   1.26.7             pyhd3eb1b0_0    defaults
+wcwidth                   0.2.5              pyhd3eb1b0_0    defaults
+webencodings              0.5.1                    py36_1    defaults
+werkzeug                  0.16.1                     py_0    defaults
+wheel                     0.37.0             pyhd3eb1b0_1    defaults
+widgetsnbextension        3.5.1                    py36_0    defaults
+wrapt                     1.12.1           py36h7b6447c_1    defaults
+xz                        5.2.5                h7b6447c_0    defaults
+yaml                      0.2.5                h7b6447c_0    defaults
+yarl                      1.6.3            py36h27cfd23_0    defaults
+zeromq                    4.3.4                h2531618_0    defaults
+zipp                      3.6.0              pyhd3eb1b0_0    defaults
+zlib                      1.2.11               h7b6447c_3    defaults
+zstd                      1.4.9                haebb681_0    defaults
