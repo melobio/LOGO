@@ -20,11 +20,12 @@ The output of this command should show a list of your GPUs. If it doesn't, check
 
 ```
 git clone https://github.com/melobio/LOGO.git
-cd LOGO-master
-docker build -f docker/Dockerfile -t mgi_logo .
+cd LOGO-master/docker
+docker build -f Dockerfile -t mgi_logo .
 ```
 The configuration process is as follows: 
 ![image](https://user-images.githubusercontent.com/27897166/136744049-74ea5335-d9a5-47d6-8fab-96c44d488a23.png)
+
 
 
 4. Launch LOGO docker images
@@ -32,10 +33,10 @@ The configuration process is as follows:
 Set up this repository directory to share to docker images
 
 ```
-nvidia-docker run -it mgi_logo:laster -v [absolutepath]/LOGO-master:/home/LOGO-master bash
+nvidia-docker run -it -v [absolutepath]/LOGO-master:/home/LOGO-master mgi_logo:latest bash
 ```
 For example:
-![image](https://user-images.githubusercontent.com/27897166/136743817-e1c99b93-0d15-4e11-a468-fd1a4bed49f4.png)
+![image](https://user-images.githubusercontent.com/27897166/136750812-0a28c154-430c-4e8c-a9f3-89b65628044b.png)
 
 
 5. Try to run demo script
