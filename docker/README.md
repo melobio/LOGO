@@ -23,10 +23,12 @@ git clone https://github.com/melobio/LOGO.git
 cd LOGO-master
 docker build -f docker/Dockerfile -t mgi_logo .
 ```
-For example:
+The configuration process is as follows: 
 ![image](https://user-images.githubusercontent.com/82862879/136741879-7bf9eeb6-c053-4812-82b0-36e9d217af9b.png)
 
 ![image](https://user-images.githubusercontent.com/82862879/136741749-60907687-9a29-47c7-a6fb-c0d0f821e0a7.png)
+
+![image](https://user-images.githubusercontent.com/27897166/136743444-b53cddd8-a1ee-41e9-8518-8e5d06e543b8.png)
 
 
 4. Launch LOGO docker images
@@ -36,6 +38,9 @@ Set up this repository directory to share to docker images
 ```
 nvidia-docker run -it mgi_logo:laster -v [absolutepath]/LOGO-master:/home/LOGO-master bash
 ```
+For example:
+![image](https://user-images.githubusercontent.com/27897166/136743817-e1c99b93-0d15-4e11-a468-fd1a4bed49f4.png)
+
 
 5. Try to run demo script
 
