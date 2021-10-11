@@ -23,6 +23,11 @@ git clone https://github.com/melobio/LOGO.git
 cd LOGO-master
 docker build -f docker/Dockerfile -t mgi_logo .
 ```
+For example:
+![image](https://user-images.githubusercontent.com/82862879/136741879-7bf9eeb6-c053-4812-82b0-36e9d217af9b.png)
+
+![image](https://user-images.githubusercontent.com/82862879/136741749-60907687-9a29-47c7-a6fb-c0d0f821e0a7.png)
+
 
 4. Launch LOGO docker images
 
@@ -35,6 +40,10 @@ nvidia-docker run -it mgi_logo:laster -v [absolutepath]/LOGO-master:/home/LOGO-m
 5. Try to run demo script
 
 ```
+source activate logo
 bash 01_Pre-training_Model/xxx.sh
 ```
+For example:
+![image](https://user-images.githubusercontent.com/82862879/136742008-40407ed4-40fc-436e-b000-61894330fcd6.png)
+
 
