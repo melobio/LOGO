@@ -1,7 +1,3 @@
-# Time zone
-ENV LANG C.UTF-8
-ENV TZ Asia/Shanghai
-
 ARG CUDA=11.0
 FROM nvidia/cuda:${CUDA}-cudnn8-runtime-ubuntu18.04
 # FROM directive resets ARGS, so we specify again (the value is retained if
@@ -19,6 +15,10 @@ RUN apt-get update && apt-get install -y \
       vim \
       less \
     && rm -rf /var/lib/apt/lists/*
+
+# Time zone
+ENV LANG C.UTF-8
+ENV TZ Asia/Shanghai
 
 # Install Miniconda package manger.
 RUN wget -q -P /tmp \
@@ -38,10 +38,10 @@ RUN conda update -qy conda \
     && conda install -y -c conda-forge \
       pip \
       python==3.6.9 \
-	  numpy pandas \
-	  tqdm scipy \
-	  scikit-learn \
-	  tensorflow-gpu==2.0 tensorflow-estimator==2.0 keras==2.3.1
+      numpy pandas \
+      tqdm scipy \
+      scikit-learn \
+      tensorflow-gpu==2.0 tensorflow-estimator==2.0 keras==2.3.1
 
 RUN pip install --upgrade pip && pip install biopython==1.68
 
