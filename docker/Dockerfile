@@ -41,6 +41,7 @@ RUN conda update -qy conda \
       numpy pandas \
       tqdm scipy \
       scikit-learn \
+      matplotlib \
       tensorflow-gpu==2.0 tensorflow-estimator==2.0 keras==2.3.1
 
 RUN pip install --upgrade pip && pip install biopython==1.68
