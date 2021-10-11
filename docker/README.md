@@ -24,11 +24,7 @@ cd LOGO-master
 docker build -f docker/Dockerfile -t mgi_logo .
 ```
 The configuration process is as follows: 
-![image](https://user-images.githubusercontent.com/82862879/136741879-7bf9eeb6-c053-4812-82b0-36e9d217af9b.png)
-
-![image](https://user-images.githubusercontent.com/82862879/136741749-60907687-9a29-47c7-a6fb-c0d0f821e0a7.png)
-
-![image](https://user-images.githubusercontent.com/27897166/136743444-b53cddd8-a1ee-41e9-8518-8e5d06e543b8.png)
+![image](https://user-images.githubusercontent.com/27897166/136744049-74ea5335-d9a5-47d6-8fab-96c44d488a23.png)
 
 
 4. Launch LOGO docker images
