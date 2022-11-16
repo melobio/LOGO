@@ -1,8 +1,20 @@
 # Languse of Genome (LOGO)
 
-This repository contains code and pre-trained weights for ALBERT genome language models from MGI, ALBERT genome language models were introduced in our paper, [Integrating convolution and self-attention improves language model of human genome for interpreting non-coding regions at base-resolution](https://www.biorxiv.org/content/10.1101/2021.09.06.459087v1)
+This repository contains code and pre-trained weights for ALBERT genome language models from MGI, ALBERT genome language models were introduced in our paper, [Integrating convolution and self-attention improves language model of human genome for interpreting non-coding regions at base-resolution, ***Nucleic Acids Research*** (Meng Y, Lichao H, et al. 2022)](https://doi.org/10.1093/nar/gkac326).
 
 
+## Citation
+```
+@article{Licko2022language,
+  title={Integrating convolution and self-attention improves language model of human genome for interpreting non-coding regions at base-resolution},
+  author={Meng Yang, Lichao Huang, Haiping Huang, Hui Tang, Nan Zhang, Huanming Yang, Jihong Wu, Feng Mu},
+  journal={Nucleic Acid Research},
+  doi={10.1093/nar/gkac326},
+  url={https://doi.org/10.1093/nar/gkac326},
+  year={2022},
+  publisher={Oxford University Press}
+}
+```
 
 ## Usage
 
